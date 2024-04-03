@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+apakah
 class Kendaraan {
     private String nomorPlat;
     private int kapasitas;
